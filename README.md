@@ -1,4 +1,4 @@
-### Hello Everyone My name is Asma you can call me "SAMA" "سما" ☁️ </br> "SAMA" is the "SKY". 
+### Hello Everyone My name is Asma you can call me "SAMA"☁️"سما"  </br> "SAMA" is the "SKY". 
 
 
 
