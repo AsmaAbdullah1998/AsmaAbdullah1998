@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👩🏻‍💻 I’m currently studying Electrical and Computer Engineering at [king Abdullaziz University](https://www.kau.edu.sa/Home.aspx).
 - 🔭 I’m currently training 2021 on [Smart Methods](https://www.s-m.com.sa), [Zahid Learning Center](https://www.zahid.com/zahid-learning-center-zlc-certified-as-a-caterpillar-five-star-contamination-control-facility/),[Electrical Engineer Preparation Program](https://twitter.com/eepprogram?lang=en).
-- 🌱 I’m currently learning [Adobe](https://www.adobe.com) Ps, Ai, Ae, Id 
+- 🌱 I’m currently learning [Adobe](https://www.adobe.com) Ps, Ai, Ae, Id. 
 - 👯 I’m looking to collaborate on [Arduino](https://www.arduino.cc)/[Raspberry Pi](https://www.raspberrypi.org) Projects, Web Development Projects, Artificial Intelligence Projects. 
 - 💬 Ask me about ANYTHING!. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/asma-sarouji-265484149/),[Instagram](https://www.instagram.com/samaabdullah98/),[Email](mailto:asma-sarouji@hotmail.com).
