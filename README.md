@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👩🏻‍💻 I’m currently studying Electrical and Computer Engineering at [king Abdullaziz University](https://www.kau.edu.sa/Home.aspx) GPA 5.00/5.00
 - 👷🏻‍♀️ I'm currently IIOT Engineer at [Nommas](https://nommas.com/)
-- 🔭 I’m currently training 2021 on [Smart Methods](https://www.s-m.com.sa), [Zahid Learning Center](https://www.zahid.com/zahid-learning-center-zlc-certified-as-a-caterpillar-five-star-contamination-control-facility/),[Electrical Engineer Preparation Program](https://twitter.com/eepprogram?lang=en).
+- 🔭 I’m currently training 2021 summer on [Smart Methods](https://www.s-m.com.sa), [Zahid Learning Center](https://www.zahid.com/zahid-learning-center-zlc-certified-as-a-caterpillar-five-star-contamination-control-facility/),[Electrical Engineer Preparation Program](https://twitter.com/eepprogram?lang=en).
 - 🌱 I’m currently learning [Adobe](https://www.adobe.com) Ps, Ai, Ae, Id. 
 - 👯 I’m looking to collaborate on [Arduino](https://www.arduino.cc)/[Raspberry Pi](https://www.raspberrypi.org) Projects, Web Development Projects, Artificial Intelligence Projects. 
 - 💬 Ask me about ANYTHING!. 
