@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 👷🏻‍♀️ I'm currently IIOT Engineer at [Nommas](https://nommas.com/)
 - 🔭 I’m currently training 2021 summer on [Smart Methods](https://www.s-m.com.sa), [Zahid Learning Center](https://www.zahid.com/zahid-learning-center-zlc-certified-as-a-caterpillar-five-star-contamination-control-facility/),[Electrical Engineer Preparation Program](https://twitter.com/eepprogram?lang=en).
 - 🌱 I’m currently learning [Adobe](https://www.adobe.com) Ps, Ai, Ae, Id. 
-- 👯 I’m looking to collaborate on [Arduino](https://www.arduino.cc)/[Raspberry Pi](https://www.raspberrypi.org) Projects, Web Development Projects, Artificial Intelligence Projects. 
+- 👯 I’m looking to collaborate on [Arduino](https://www.arduino.cc)/[Raspberry Pi](https://www.raspberrypi.org) /Jetson Projects, Web Development Projects, Artificial Intelligence Projects. 
 - 💬 Ask me about ANYTHING!. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/asma-265484149?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3wNlfNIbSKCZQCcvNIXShQ%3D%3D),[Instagram](https://www.instagram.com/samaabdullah98/),[Email](mailto:asma-sarouji@hotmail.com).
 - 😄 Pronouns: just "SAMA"!:).
