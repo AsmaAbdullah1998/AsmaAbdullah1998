@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Adobe](https://www.adobe.com) Ps, Ai, Ae, Id. 
 - 👯 I’m looking to collaborate on [Arduino](https://www.arduino.cc)/[Raspberry Pi](https://www.raspberrypi.org) /Jetson Projects, Web Development Projects, Artificial Intelligence Projects. 
 - 💬 Ask me about ANYTHING!. 
-- 📫 How to reach me:[Instagram](https://www.instagram.com/samaabdullah98/),[Email](mailto:asma-sarouji@hotmail.com).
+- 📫 How to reach me:[Instagram](https://www.instagram.com/samaabdullah98/),[Email](mailto:asma-sarouji@hotmail.com), [linkedin](https://www.linkedin.com/in/asmasarouji/).
 - 😄 Pronouns: just "SAMA"!:).
 - ⚡ Fun fact: One thing I’m very afraid of is CAT 🐱.
 
